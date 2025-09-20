@@ -1,4 +1,4 @@
-  //coordinate integer variables
+//coordinate integer variables
 int startX = (int) (Math.random() * 600);
 int startY = 120;
 int endX = (int) (Math.random() * 600);
